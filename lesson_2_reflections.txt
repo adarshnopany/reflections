@@ -9,3 +9,14 @@ How is the staging area different from the working directory and the repository?
 Staging area is different from both the working directory and repository as it acts as an intermediate. Whatever files we want the commit
 to have is stored in the staging area. This is the value it offers.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Whatever changes we make to our project, we can come back to our Git BASH and add those files to the staging area straight away to commit the changes.
+This will help us to commit change per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want multiple versions of our project, like suppose one for french langauge, one for indian and all that, so branching can help us
+to maintain separate history for each.
+Branches can exactly tell us in which branch we made which change and how to revert that and all.
+
