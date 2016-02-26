@@ -24,3 +24,8 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams always helps to understand the tree structure better. As we know pictures (diagrams) speaks louder than words!
 It can show us from where a branch shooted off and till where the branch was on!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is now two branches have cumulated to one single main branch. It contains the changes from both the branches.
+We represent it in a diagram the way we do so as to clarify the concepts in our hand and to represent it well, because diagrams are great!
