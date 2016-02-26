@@ -20,3 +20,7 @@ When we want multiple versions of our project, like suppose one for french langa
 to maintain separate history for each.
 Branches can exactly tell us in which branch we made which change and how to revert that and all.
 
+How do the diagrams help you visualize the branch structure?
+
+The diagrams always helps to understand the tree structure better. As we know pictures (diagrams) speaks louder than words!
+It can show us from where a branch shooted off and till where the branch was on!
