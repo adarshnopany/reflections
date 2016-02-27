@@ -18,7 +18,7 @@ Whereas saving automatically at certain intervals is good but then the history w
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-Because Git knows that changes in one file should be made to another file(s) also as they can be related to each other. So, a commit should include
+Because Git knows that changes in one file could be made to another file(s) also as they can be related to each other. So, a commit should include
 many files if that particular commit changes things in more than one file.
 
 How can you use the commands git log and git diff to view the history of files?
