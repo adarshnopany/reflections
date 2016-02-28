@@ -6,7 +6,7 @@ local?
 
 We will want to use a remote repository rather than keeping all my work local when
 I want to submit all my changes in the internet SPECIFICALLY for public viewing,
-so that they can review my code and possibly administer changes to it.
+so that they can review my code and possibly administer changes to it. This is it!
 
 
 Why might you want to always pull changes manually rather than having Git
