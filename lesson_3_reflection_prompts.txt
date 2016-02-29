@@ -24,11 +24,9 @@ Its pretty evident when we will use which option.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    
-
-Fill in your answer here
-
-
+It is beneficial to have a copy of the last known state of the remote repository on our local computer because
+that will act the place till where we have synced our local repo with the GitHub one. So all the changes introduced
+after that will then be updated and the latest commit will get the invisible "origin/master" label.
 
 How would you collaborate without using Git or GitHub?  
 What would be easier,
